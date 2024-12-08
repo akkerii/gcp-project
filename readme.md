@@ -1,1 +1,5 @@
-### Repo for GCP Devops project edited2
+### Docker Flask Application
+
+- application is written on python 
+- deployed on GKE 
+
